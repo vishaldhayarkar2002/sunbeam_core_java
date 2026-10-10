@@ -41,6 +41,7 @@ public class Program {
 		
 		//A null value indicates that the elements' 
 		//natural ordering should be used.
+//		we can create reference of the interface and assign subclass object to it
 		Comparator<Employee> comparator = null; 
 		while((choice = menuList())!=0) {
 			switch (choice) {
