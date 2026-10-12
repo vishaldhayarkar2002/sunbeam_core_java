@@ -4,7 +4,7 @@ class Person{
 	private int age; 
 	//paramterless ctor 
 	public Person() {
-		this("Aditya",31); // ctor chaining 
+		this("Aditya",31); // ctor chaining imp
 		System.out.println("public Person()");
 	}
 	//parameterized ctor 
