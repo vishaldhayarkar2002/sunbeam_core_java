@@ -15,7 +15,7 @@ public class Program {
 	public static void main(String[] args) {
 		System.out.println("num5 : " + C.num5);
 		System.out.println("num3 : " + C.num3);
-		//System.out.println("num2 : " + C.num2); // NOT OK 
+		System.out.println("num2 : " + C.num2); // NOT OK 
 	}
 	public static void main2(String[] args) {
 		System.out.println("num2 : " +B.num2);
